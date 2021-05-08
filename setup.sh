@@ -3,5 +3,6 @@
 sudo apt-get update && sudo apt-get upgrade -y
 
 sudo apt-add-repository ppa:fish-shell/release-3
+sudo add-apt-repository ppa:kelleyk/emacs
 
-sudo apt-get install git vim autojump fish
+sudo apt-get install git vim autojump fish emacs26
